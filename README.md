@@ -41,10 +41,19 @@ status    focused, curious, shipping
   <a href="https://github.com/Aman0choudhary">
     <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aman">
+  <a href="https://www.linkedin.com/in/aman-choudhary-01a836329/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn" />
   </a>
-  <a href="mailto:aman@example.com">
+  <a href="https://www.instagram.com/amanchoudharyy09/">
+    <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=2dd4bf" alt="Instagram" />
+  </a>
+  <a href="https://x.com/4man_9">
+    <img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=2dd4bf" alt="X" />
+  </a>
+  <a href="https://dev.to/amanvoid">
+    <img src="https://img.shields.io/badge/Dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=2dd4bf" alt="Dev.to" />
+  </a>
+  <a href="mailto:amantetarwal8696@gmail.com">
     <img src="https://img.shields.io/badge/Mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=2dd4bf" alt="Mail" />
   </a>
 </p>
