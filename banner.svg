@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">AMAN anime-noir profile banner</title>
+  <desc id="desc">Off-white poster banner with black ink fracture, teal glow flecks, AMAN typographic lockup, and technical tag strip.</desc>
+  <defs>
+    <radialGradient id="inkGradient" cx="42%" cy="40%" r="72%">
+      <stop offset="0%" stop-color="#1c1c1c"/>
+      <stop offset="58%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#070707"/>
+    </radialGradient>
+    <linearGradient id="fadeInk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#070707"/>
+      <stop offset="68%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#070707" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="panelClip">
+      <path d="M0 0 L560 0 L586 31 L548 61 L623 92 L571 123 L658 154 L594 190 L671 232 L632 265 L696 302 L633 331 L674 365 L598 398 L632 430 L550 461 L579 500 L0 500 Z"/>
+    </clipPath>
+    <style>
+      .display { font-family: 'Arial Black', Impact, system-ui, sans-serif; font-weight: 900; letter-spacing: 38px; }
+      .mono { font-family: 'Courier New', Courier, monospace; letter-spacing: 3px; }
+      .micro { font-family: 'Courier New', Courier, monospace; letter-spacing: 2px; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="500" fill="#f4f2ec"/>
+
+  <g opacity="0.24">
+    <path d="M112 53 Q130 43 146 58 Q132 73 110 69 Q101 62 112 53Z" fill="#070707"/>
+    <path d="M244 91 Q269 76 292 94 Q274 118 241 112 Q229 101 244 91Z" fill="#070707"/>
+    <path d="M384 55 Q407 36 435 51 Q418 81 376 76 Q364 64 384 55Z" fill="#070707"/>
+    <path d="M656 44 Q687 31 720 49 Q692 82 650 70 Q637 57 656 44Z" fill="#070707"/>
+    <path d="M794 85 Q811 74 830 86 Q816 105 790 102 Q780 93 794 85Z" fill="#070707"/>
+    <path d="M980 78 Q1001 64 1026 79 Q1007 103 974 98 Q964 88 980 78Z" fill="#070707"/>
+    <path d="M1196 118 Q1211 109 1227 119 Q1215 135 1193 132 Q1185 124 1196 118Z" fill="#070707"/>
+    <path d="M1394 102 Q1410 92 1427 104 Q1413 121 1391 118 Q1383 110 1394 102Z" fill="#070707"/>
+    <path d="M1503 179 Q1518 169 1534 180 Q1521 196 1499 192 Q1491 185 1503 179Z" fill="#070707"/>
+  </g>
+
+  <g clip-path="url(#panelClip)">
+    <path d="M0 0 L560 0 L586 31 L548 61 L623 92 L571 123 L658 154 L594 190 L671 232 L632 265 L696 302 L633 331 L674 365 L598 398 L632 430 L550 461 L579 500 L0 500 Z" fill="url(#inkGradient)"/>
+    <path d="M0 276 C138 232 277 240 430 283 C510 306 583 337 713 317 L713 500 L0 500 Z" fill="url(#fadeInk)" opacity="0.82"/>
+    <path d="M55 36 Q117 6 177 46 T302 38 T463 66 T613 39 L643 106 Q506 87 368 122 T101 102 T0 128 L0 47 Z" fill="#252525" opacity="0.18"/>
+    <path d="M27 408 Q107 350 204 387 T382 379 T612 431 L584 500 L0 500 L0 438 Z" fill="#2a2a2a" opacity="0.18"/>
+    <path d="M94 174 Q141 142 196 170 Q159 204 91 201 Q64 189 94 174Z" fill="#f4f2ec" opacity="0.055"/>
+    <path d="M298 94 Q350 60 411 93 Q370 132 289 124 Q263 109 298 94Z" fill="#f4f2ec" opacity="0.06"/>
+    <path d="M414 321 Q472 285 548 319 Q499 361 404 351 Q371 335 414 321Z" fill="#f4f2ec" opacity="0.07"/>
+    <path d="M78 280 Q126 247 191 277 Q150 317 66 309 Q39 294 78 280Z" fill="#f4f2ec" opacity="0.05"/>
+    <path d="M207 442 Q254 413 317 438 Q284 473 199 470 Q172 456 207 442Z" fill="#f4f2ec" opacity="0.06"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M558 31 Q597 10 628 29 Q611 62 558 58 Q534 45 558 31Z" fill="#070707"/>
+    <path d="M610 77 Q657 53 704 80 Q671 120 604 112 Q579 96 610 77Z" fill="#070707" opacity="0.9"/>
+    <path d="M579 122 Q616 99 657 123 Q632 156 574 149 Q553 136 579 122Z" fill="#070707" opacity="0.78"/>
+    <path d="M675 142 Q703 126 733 143 Q711 169 672 164 Q657 153 675 142Z" fill="#070707" opacity="0.72"/>
+    <path d="M610 190 Q662 158 722 194 Q681 236 601 226 Q570 208 610 190Z" fill="#070707" opacity="0.74"/>
+    <path d="M705 227 Q741 207 779 229 Q751 259 699 253 Q680 241 705 227Z" fill="#070707" opacity="0.58"/>
+    <path d="M634 286 Q683 256 742 288 Q704 329 627 318 Q599 302 634 286Z" fill="#070707" opacity="0.8"/>
+    <path d="M746 314 Q779 295 817 315 Q791 344 741 338 Q724 327 746 314Z" fill="#070707" opacity="0.46"/>
+    <path d="M604 370 Q654 338 715 374 Q672 414 595 405 Q568 388 604 370Z" fill="#070707" opacity="0.75"/>
+    <path d="M705 411 Q744 388 787 414 Q756 446 700 439 Q679 426 705 411Z" fill="#070707" opacity="0.48"/>
+  </g>
+
+  <g opacity="0.55" stroke="#070707" stroke-width="2" stroke-linecap="round">
+    <path d="M581 47 L762 4"/>
+    <path d="M584 151 L836 66"/>
+    <path d="M642 218 L921 142"/>
+    <path d="M673 306 L1064 212"/>
+    <path d="M595 391 L855 338"/>
+    <path d="M722 435 L1013 381"/>
+    <path d="M815 92 L867 74"/>
+    <path d="M947 236 L989 222"/>
+    <path d="M1110 354 L1163 341"/>
+    <path d="M1327 304 L1364 292"/>
+  </g>
+
+  <g fill="#070707">
+    <path d="M780 47 Q794 39 807 47 Q797 61 778 58 Q771 52 780 47Z" opacity="0.7"/>
+    <path d="M842 145 Q858 135 876 146 Q862 164 838 160 Q830 152 842 145Z" opacity="0.6"/>
+    <path d="M932 96 Q944 88 957 97 Q947 111 930 108 Q923 102 932 96Z" opacity="0.48"/>
+    <path d="M1017 170 Q1034 160 1052 173 Q1038 190 1014 187 Q1005 179 1017 170Z" opacity="0.44"/>
+    <path d="M1110 260 Q1123 252 1138 261 Q1127 277 1107 274 Q1100 267 1110 260Z" opacity="0.36"/>
+    <path d="M1193 393 Q1210 383 1228 395 Q1213 412 1189 408 Q1181 401 1193 393Z" opacity="0.34"/>
+    <path d="M1268 312 Q1281 304 1295 313 Q1283 328 1265 325 Q1258 319 1268 312Z" opacity="0.32"/>
+    <path d="M1375 236 Q1386 229 1399 237 Q1389 250 1373 248 Q1366 242 1375 236Z" opacity="0.28"/>
+    <path d="M1464 364 Q1474 358 1485 365 Q1476 377 1461 375 Q1456 369 1464 364Z" opacity="0.24"/>
+  </g>
+
+  <g fill="#2dd4bf">
+    <path d="M98 58 Q107 48 119 58 Q111 70 96 67 Q91 62 98 58Z" opacity="0.78"/>
+    <path d="M246 86 Q260 73 274 87 Q261 103 241 99 Q234 92 246 86Z" opacity="0.72"/>
+    <path d="M370 80 Q381 69 394 80 Q383 94 366 91 Q360 85 370 80Z" opacity="0.7"/>
+    <path d="M552 72 Q567 59 584 73 Q568 91 547 87 Q539 79 552 72Z" opacity="0.75"/>
+    <path d="M651 250 Q665 238 681 252 Q667 268 646 264 Q639 257 651 250Z" opacity="0.62"/>
+    <path d="M721 359 Q735 347 751 360 Q737 376 717 372 Q709 365 721 359Z" opacity="0.48"/>
+    <path d="M854 145 Q866 135 879 146 Q868 160 851 157 Q845 151 854 145Z" opacity="0.5"/>
+  </g>
+
+  <g transform="translate(62 252)">
+    <text class="display" x="0" y="0" fill="#f4f2ec" font-size="118">AMAN</text>
+    <text class="mono" x="5" y="52" fill="#2dd4bf" font-size="18">DEVELOPER // DESIGN SYSTEMS // SHIP MODE</text>
+    <text class="serif" x="7" y="86" fill="#b9b6ae" font-size="21">building clean interfaces from the dark edge of the canvas</text>
+  </g>
+
+  <g transform="translate(850 353)" fill="none" stroke="#3a3a3a" stroke-width="1">
+    <path d="M0 0 H524"/>
+    <path d="M554 0 H648"/>
+  </g>
+  <g class="micro" fill="#3a3a3a" font-size="13">
+    <text x="854" y="383">FRONTEND | FULLSTACK | OPEN SOURCE | UI SYSTEMS | AUTOMATION</text>
+    <text x="851" y="413" font-size="10">PSYCHOLOGICAL_SUPPRESSION | UNMATCHED | POWER | FEAR_GOD | EMOTIONS | ALLURE_OF_EVIL</text>
+    <text x="1378" y="357">PROJECT//001</text>
+    <text x="1483" y="357">A-120-E1</text>
+  </g>
+  <g transform="translate(1328 393)" fill="#0a0a0a">
+    <rect x="0" y="0" width="4" height="22"/>
+    <rect x="8" y="0" width="2" height="22"/>
+    <rect x="14" y="0" width="6" height="22"/>
+    <rect x="25" y="0" width="3" height="22"/>
+    <rect x="33" y="0" width="2" height="22"/>
+    <rect x="40" y="0" width="5" height="22"/>
+    <rect x="51" y="0" width="3" height="22"/>
+    <rect x="58" y="0" width="7" height="22"/>
+    <rect x="70" y="0" width="2" height="22"/>
+    <rect x="77" y="0" width="4" height="22"/>
+  </g>
+</svg>
